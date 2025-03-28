@@ -1,5 +1,5 @@
 if (process.env.SECRET_ONE) {
-  console.log("Secret found!);
+  console.log("Secret found!");
   process.exit(0);
 }
 
